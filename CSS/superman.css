@@ -1,0 +1,78 @@
+body{
+	font-family: Helvetica; Arial; Sana-serif;
+	font-size: 20px;
+	margin: 0px;
+}
+
+h1,h2{
+	font-family: 'Press Start 2P', cursive;
+}
+
+header{
+	text-align: center;
+	background-color: #C21818;
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+}
+
+header h1{
+	font-size: 50px;
+	font
+
+}
+
+header img{
+	border-radius: 180px;
+    width: 300px;
+    border: 10px solid black;
+
+}
+
+main{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+main img{
+	width: 100%;
+}
+
+h2{
+	font-size: 30px;
+	margin: 10px 0 10px;
+	color: #e70c19;
+}
+
+p.caption{
+	font-size: 30px;
+	font-style: italic;
+	color: #999999;
+	margin-top: 0;
+}
+
+
+a:hover{
+	background-color: #999999;
+	opacity: .4;
+	color: black;
+}
+
+footer{
+	text-align: center;
+	background-color: #C21818;
+	padding: 50px;
+	color: white;
+}
+
+footer a{
+	color: white;
+}
+
+footer a:hover{
+	background-color: #999999;
+	opacity: .4;
+	color: black;
+}
